@@ -102,7 +102,7 @@ It contains the readme file, one folder with all the photos used inside the read
 ## Authors
 
 ##### - Ensild Bici
-##### - Eva Daci 
+##### - Eva Daçi 
 ##### - Enrieta Hoxha
 ##### - Klaudia Kasa
 ##### - Qemal Sinaj 
